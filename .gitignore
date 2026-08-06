@@ -1,0 +1,23 @@
+# Dataset files
+*.csv
+*.xlsx
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Trained models
+*.h5
+*.keras
+*.pkl
+
+# Numpy arrays
+*.npy
+*.npz
+
+# Mac files
+.DS_Store
